@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+
+}
+body{
+
+    font-family: 'Outift';
+    background: linear-gradient(#ffecf3, #fff7f9);
+}
+.contact-container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.contact-left{
+    
+}
